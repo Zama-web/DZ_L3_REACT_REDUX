@@ -1,10 +1,10 @@
-import MainPage from './pages/mainPage/MainPage';
+import AddNumber from "./pages/addNumber/AddNumber";
 
 function App() {
   return (
     <div>
 
-      <MainPage/>
+      <AddNumber/>
 
     </div>
   );
